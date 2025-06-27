@@ -2,7 +2,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
-Official implementation of **[Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts](https://arxiv.org/)**  
+Official implementation of **[Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts]([https://arxiv.org/](https://arxiv.org/abs/2506.21328))**  
 
 *Work in progress*
 
